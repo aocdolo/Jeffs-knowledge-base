@@ -1,0 +1,1 @@
+Unzip and upload index.html and style.css to the root of a GitHub repository. Enable GitHub Pages under Settings > Pages, using the main branch and /(root). Submit the public URL and the companion PDF.
